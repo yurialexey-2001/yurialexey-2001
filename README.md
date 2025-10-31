@@ -1,7 +1,9 @@
-<h1 align="center">Oi, eu sou Yuri!</h1>
+<h1 align="center">Oi, eu sou o Yuri!</h1>
 <h3 align="center">Estudante de Administração e Análise de Dados</h3>
 
+- 📊 Busco transição de carreira para a área de Dados
 - 📩 Contate-me por aqui: **yuriadm2025@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
